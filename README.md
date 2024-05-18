@@ -24,6 +24,11 @@ This project aims to create a Stock Monitoring Platform using Django for the bac
 1. Clone the repository: git clone https://github.com/gaadhavs/stock_monitoring_platform1.git
 2. Install dependencies for the backend and frontend.
 
+sample
+https://ibb.co/GH2zhBz
+<img width="959" alt="fetch_data" src="https://github.com/gaadhavs/stock_monitoring_platform1/assets/111566224/2705ec92-6c41-4263-afc8-f682d02ba677">
+
+
 
 ## Separate Usage
 - If you want to use only the frontend code, navigate to the frontend/ directory and follow the instructions.
